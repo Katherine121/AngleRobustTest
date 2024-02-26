@@ -1,0 +1,10 @@
+einops==0.4.1
+imgaug==0.4.0
+matplotlib==3.3.4
+numpy==1.18.1
+Pillow==9.5.0
+scikit_learn==1.2.2
+selenium==4.9.1
+timm==0.3.2
+torch==2.0.1
+torchvision==0.15.2
